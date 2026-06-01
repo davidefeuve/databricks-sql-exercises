@@ -131,5 +131,3 @@ Planned enhancements include:
 ## Project Status
 
 In Progress
-
-This repository is continuously updated as new SQL concepts and exercises are completed.
