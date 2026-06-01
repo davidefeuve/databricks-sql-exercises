@@ -1,0 +1,501 @@
+﻿city,country,year,population,region
+London,UK,2006,8900000,Europe
+London,UK,2007,9056326,North America
+London,UK,2008,9276248,Europe
+London,UK,2009,9427480,Asia-Pacific
+London,UK,2010,9548661,Europe
+London,UK,2011,9801858,Asia-Pacific
+London,UK,2012,9910588,Asia-Pacific
+London,UK,2013,10451748,Europe
+London,UK,2014,10429435,Europe
+London,UK,2015,10831911,North America
+London,UK,2016,10952999,North America
+London,UK,2017,11192923,Europe
+London,UK,2018,11381615,Europe
+London,UK,2019,11567984,North America
+London,UK,2020,11537548,North America
+London,UK,2021,12145866,Europe
+London,UK,2022,11785069,North America
+London,UK,2023,13193743,Europe
+London,UK,2024,13185968,Europe
+London,UK,2025,12395253,Europe
+Manchester,UK,2006,550000,North America
+Manchester,UK,2007,554816,Europe
+Manchester,UK,2008,565950,North America
+Manchester,UK,2009,573120,North America
+Manchester,UK,2010,570242,North America
+Manchester,UK,2011,590366,Europe
+Manchester,UK,2012,580921,Asia-Pacific
+Manchester,UK,2013,598098,North America
+Manchester,UK,2014,593003,Asia-Pacific
+Manchester,UK,2015,597778,Europe
+Manchester,UK,2016,622101,Asia-Pacific
+Manchester,UK,2017,616287,North America
+Manchester,UK,2018,608208,Europe
+Manchester,UK,2019,661888,Europe
+Manchester,UK,2020,625865,Asia-Pacific
+Manchester,UK,2021,671758,North America
+Manchester,UK,2022,649268,Asia-Pacific
+Manchester,UK,2023,657355,Asia-Pacific
+Manchester,UK,2024,699822,Asia-Pacific
+Manchester,UK,2025,672168,Europe
+Birmingham,UK,2006,1140000,Europe
+Birmingham,UK,2007,1174783,North America
+Birmingham,UK,2008,1209067,Europe
+Birmingham,UK,2009,1246383,Europe
+Birmingham,UK,2010,1276217,Europe
+Birmingham,UK,2011,1312401,North America
+Birmingham,UK,2012,1381278,Europe
+Birmingham,UK,2013,1389626,Europe
+Birmingham,UK,2014,1465964,Europe
+Birmingham,UK,2015,1514624,Europe
+Birmingham,UK,2016,1549034,North America
+Birmingham,UK,2017,1550214,North America
+Birmingham,UK,2018,1616236,Asia-Pacific
+Birmingham,UK,2019,1720433,Europe
+Birmingham,UK,2020,1741539,Europe
+Birmingham,UK,2021,1851265,Asia-Pacific
+Birmingham,UK,2022,1841394,Europe
+Birmingham,UK,2023,1877440,Asia-Pacific
+Birmingham,UK,2024,1895009,Europe
+Birmingham,UK,2025,1944709,North America
+Madrid,Spain,2006,3300000,Europe
+Madrid,Spain,2007,3397215,Europe
+Madrid,Spain,2008,3501953,North America
+Madrid,Spain,2009,3577399,Europe
+Madrid,Spain,2010,3705996,Asia-Pacific
+Madrid,Spain,2011,3866242,North America
+Madrid,Spain,2012,3923954,Europe
+Madrid,Spain,2013,4040909,Asia-Pacific
+Madrid,Spain,2014,4202703,North America
+Madrid,Spain,2015,4410116,Europe
+Madrid,Spain,2016,4337342,Asia-Pacific
+Madrid,Spain,2017,4463049,Europe
+Madrid,Spain,2018,4618069,Europe
+Madrid,Spain,2019,5033179,Europe
+Madrid,Spain,2020,4927125,North America
+Madrid,Spain,2021,5249670,North America
+Madrid,Spain,2022,5251312,North America
+Madrid,Spain,2023,5272907,Asia-Pacific
+Madrid,Spain,2024,5410690,Europe
+Madrid,Spain,2025,6083396,North America
+Barcelona,Spain,2006,1650000,North America
+Barcelona,Spain,2007,1710146,North America
+Barcelona,Spain,2008,1753250,North America
+Barcelona,Spain,2009,1806886,North America
+Barcelona,Spain,2010,1880574,Europe
+Barcelona,Spain,2011,1958733,Europe
+Barcelona,Spain,2012,2002374,Asia-Pacific
+Barcelona,Spain,2013,2062312,Asia-Pacific
+Barcelona,Spain,2014,2129695,North America
+Barcelona,Spain,2015,2209204,Asia-Pacific
+Barcelona,Spain,2016,2259298,Europe
+Barcelona,Spain,2017,2305875,North America
+Barcelona,Spain,2018,2459387,Europe
+Barcelona,Spain,2019,2607506,Europe
+Barcelona,Spain,2020,2597494,Europe
+Barcelona,Spain,2021,2824651,Europe
+Barcelona,Spain,2022,2925411,Asia-Pacific
+Barcelona,Spain,2023,2836253,North America
+Barcelona,Spain,2024,2951091,Asia-Pacific
+Barcelona,Spain,2025,2941850,Europe
+Paris,France,2006,2140000,Europe
+Paris,France,2007,2157311,North America
+Paris,France,2008,2172816,Asia-Pacific
+Paris,France,2009,2188547,North America
+Paris,France,2010,2221819,North America
+Paris,France,2011,2211582,Europe
+Paris,France,2012,2290934,Asia-Pacific
+Paris,France,2013,2264563,Asia-Pacific
+Paris,France,2014,2298871,Europe
+Paris,France,2015,2374235,Europe
+Paris,France,2016,2339398,Europe
+Paris,France,2017,2293672,Asia-Pacific
+Paris,France,2018,2401430,North America
+Paris,France,2019,2475545,Asia-Pacific
+Paris,France,2020,2378421,Asia-Pacific
+Paris,France,2021,2488529,North America
+Paris,France,2022,2446118,Europe
+Paris,France,2023,2466740,North America
+Paris,France,2024,2502198,Europe
+Paris,France,2025,2661758,Europe
+Lyon,France,2006,520000,Asia-Pacific
+Lyon,France,2007,532305,Europe
+Lyon,France,2008,542892,Asia-Pacific
+Lyon,France,2009,557206,North America
+Lyon,France,2010,570599,Europe
+Lyon,France,2011,587074,Europe
+Lyon,France,2012,589233,Europe
+Lyon,France,2013,620806,North America
+Lyon,France,2014,629610,Asia-Pacific
+Lyon,France,2015,630802,Asia-Pacific
+Lyon,France,2016,645871,North America
+Lyon,France,2017,657210,North America
+Lyon,France,2018,711420,Asia-Pacific
+Lyon,France,2019,721473,Europe
+Lyon,France,2020,744994,Asia-Pacific
+Lyon,France,2021,762773,Europe
+Lyon,France,2022,773879,North America
+Lyon,France,2023,762322,Asia-Pacific
+Lyon,France,2024,812551,North America
+Lyon,France,2025,766513,Europe
+Berlin,Germany,2006,3700000,North America
+Berlin,Germany,2007,3685364,Europe
+Berlin,Germany,2008,3667241,Asia-Pacific
+Berlin,Germany,2009,3630813,Europe
+Berlin,Germany,2010,3630623,Asia-Pacific
+Berlin,Germany,2011,3683555,Europe
+Berlin,Germany,2012,3633091,Asia-Pacific
+Berlin,Germany,2013,3649006,North America
+Berlin,Germany,2014,3654252,North America
+Berlin,Germany,2015,3661339,Europe
+Berlin,Germany,2016,3648445,Europe
+Berlin,Germany,2017,3528368,Asia-Pacific
+Berlin,Germany,2018,3489444,Asia-Pacific
+Berlin,Germany,2019,3454936,Europe
+Berlin,Germany,2020,3560279,Asia-Pacific
+Berlin,Germany,2021,3462762,North America
+Berlin,Germany,2022,3552180,North America
+Berlin,Germany,2023,3365047,Asia-Pacific
+Berlin,Germany,2024,3328655,Asia-Pacific
+Berlin,Germany,2025,3294777,Europe
+Munich,Germany,2006,1500000,Asia-Pacific
+Munich,Germany,2007,1524948,North America
+Munich,Germany,2008,1542839,North America
+Munich,Germany,2009,1579371,North America
+Munich,Germany,2010,1603416,Asia-Pacific
+Munich,Germany,2011,1634653,Europe
+Munich,Germany,2012,1654667,Asia-Pacific
+Munich,Germany,2013,1680006,Asia-Pacific
+Munich,Germany,2014,1689420,North America
+Munich,Germany,2015,1710093,Europe
+Munich,Germany,2016,1746938,Asia-Pacific
+Munich,Germany,2017,1820696,Asia-Pacific
+Munich,Germany,2018,1755456,Asia-Pacific
+Munich,Germany,2019,1787206,Asia-Pacific
+Munich,Germany,2020,1847155,North America
+Munich,Germany,2021,1969905,North America
+Munich,Germany,2022,1922346,Europe
+Munich,Germany,2023,1940832,Europe
+Munich,Germany,2024,1992672,Asia-Pacific
+Munich,Germany,2025,1975334,Europe
+Rome,Italy,2006,2870000,North America
+Rome,Italy,2007,2957229,Asia-Pacific
+Rome,Italy,2008,3051251,North America
+Rome,Italy,2009,3150680,North America
+Rome,Italy,2010,3262367,Asia-Pacific
+Rome,Italy,2011,3332100,Asia-Pacific
+Rome,Italy,2012,3482082,North America
+Rome,Italy,2013,3649136,Europe
+Rome,Italy,2014,3753985,Europe
+Rome,Italy,2015,3895005,North America
+Rome,Italy,2016,4025237,Europe
+Rome,Italy,2017,4104924,Europe
+Rome,Italy,2018,4104238,Asia-Pacific
+Rome,Italy,2019,4457341,Europe
+Rome,Italy,2020,4494668,Europe
+Rome,Italy,2021,4593150,Asia-Pacific
+Rome,Italy,2022,4643632,Asia-Pacific
+Rome,Italy,2023,4969891,Asia-Pacific
+Rome,Italy,2024,4998517,Asia-Pacific
+Rome,Italy,2025,5102950,North America
+Milan,Italy,2006,1360000,Europe
+Milan,Italy,2007,1403946,North America
+Milan,Italy,2008,1455167,Europe
+Milan,Italy,2009,1514788,Asia-Pacific
+Milan,Italy,2010,1566234,Asia-Pacific
+Milan,Italy,2011,1608382,Europe
+Milan,Italy,2012,1639988,Asia-Pacific
+Milan,Italy,2013,1738370,North America
+Milan,Italy,2014,1806720,Asia-Pacific
+Milan,Italy,2015,1872901,North America
+Milan,Italy,2016,1942720,North America
+Milan,Italy,2017,1990383,Asia-Pacific
+Milan,Italy,2018,1987021,North America
+Milan,Italy,2019,2034588,Asia-Pacific
+Milan,Italy,2020,2114663,North America
+Milan,Italy,2021,2145750,North America
+Milan,Italy,2022,2215823,Europe
+Milan,Italy,2023,2318749,North America
+Milan,Italy,2024,2539729,Asia-Pacific
+Milan,Italy,2025,2607591,North America
+New York,USA,2006,8400000,Asia-Pacific
+New York,USA,2007,8331136,Europe
+New York,USA,2008,8259973,Europe
+New York,USA,2009,8198371,North America
+New York,USA,2010,8041314,Europe
+New York,USA,2011,8065395,Asia-Pacific
+New York,USA,2012,7900816,North America
+New York,USA,2013,7939746,Asia-Pacific
+New York,USA,2014,7752769,Europe
+New York,USA,2015,7659457,Asia-Pacific
+New York,USA,2016,7737269,Asia-Pacific
+New York,USA,2017,7286516,North America
+New York,USA,2018,7294461,North America
+New York,USA,2019,7016430,North America
+New York,USA,2020,7205315,North America
+New York,USA,2021,6914079,North America
+New York,USA,2022,7110208,Asia-Pacific
+New York,USA,2023,7326573,Asia-Pacific
+New York,USA,2024,6901135,Asia-Pacific
+New York,USA,2025,7192793,North America
+Los Angeles,USA,2006,3900000,North America
+Los Angeles,USA,2007,3881490,Europe
+Los Angeles,USA,2008,3849081,Asia-Pacific
+Los Angeles,USA,2009,3851878,Asia-Pacific
+Los Angeles,USA,2010,3808145,Asia-Pacific
+Los Angeles,USA,2011,3845918,North America
+Los Angeles,USA,2012,3839800,Europe
+Los Angeles,USA,2013,3720852,Europe
+Los Angeles,USA,2014,3725270,Asia-Pacific
+Los Angeles,USA,2015,3838032,Asia-Pacific
+Los Angeles,USA,2016,3814564,Europe
+Los Angeles,USA,2017,3789861,Asia-Pacific
+Los Angeles,USA,2018,3585682,Asia-Pacific
+Los Angeles,USA,2019,3672253,Asia-Pacific
+Los Angeles,USA,2020,3773133,Asia-Pacific
+Los Angeles,USA,2021,3605058,Europe
+Los Angeles,USA,2022,3533394,North America
+Los Angeles,USA,2023,3669028,Asia-Pacific
+Los Angeles,USA,2024,3485223,Europe
+Los Angeles,USA,2025,3713292,North America
+Chicago,USA,2006,2700000,Asia-Pacific
+Chicago,USA,2007,2755418,Europe
+Chicago,USA,2008,2829662,Asia-Pacific
+Chicago,USA,2009,2883863,North America
+Chicago,USA,2010,2984150,North America
+Chicago,USA,2011,3052552,Europe
+Chicago,USA,2012,3056321,North America
+Chicago,USA,2013,3187037,Europe
+Chicago,USA,2014,3224465,North America
+Chicago,USA,2015,3250661,North America
+Chicago,USA,2016,3430147,Asia-Pacific
+Chicago,USA,2017,3548865,North America
+Chicago,USA,2018,3493337,Asia-Pacific
+Chicago,USA,2019,3699093,Europe
+Chicago,USA,2020,3715198,North America
+Chicago,USA,2021,3654471,Asia-Pacific
+Chicago,USA,2022,3716847,North America
+Chicago,USA,2023,3937282,Asia-Pacific
+Chicago,USA,2024,4040236,Asia-Pacific
+Chicago,USA,2025,3963019,North America
+Toronto,Canada,2006,2930000,North America
+Toronto,Canada,2007,2978183,Asia-Pacific
+Toronto,Canada,2008,3024454,Europe
+Toronto,Canada,2009,3076947,Europe
+Toronto,Canada,2010,3142178,Asia-Pacific
+Toronto,Canada,2011,3185828,Asia-Pacific
+Toronto,Canada,2012,3230359,Europe
+Toronto,Canada,2013,3307977,Asia-Pacific
+Toronto,Canada,2014,3359825,Asia-Pacific
+Toronto,Canada,2015,3355557,Europe
+Toronto,Canada,2016,3475371,North America
+Toronto,Canada,2017,3443591,Europe
+Toronto,Canada,2018,3703253,Europe
+Toronto,Canada,2019,3530466,North America
+Toronto,Canada,2020,3846873,Asia-Pacific
+Toronto,Canada,2021,3689200,Asia-Pacific
+Toronto,Canada,2022,3846126,Europe
+Toronto,Canada,2023,3881617,North America
+Toronto,Canada,2024,3827932,Asia-Pacific
+Toronto,Canada,2025,3965768,Asia-Pacific
+Vancouver,Canada,2006,675000,Europe
+Vancouver,Canada,2007,689291,Europe
+Vancouver,Canada,2008,702425,Asia-Pacific
+Vancouver,Canada,2009,723781,Europe
+Vancouver,Canada,2010,737428,Asia-Pacific
+Vancouver,Canada,2011,746665,Europe
+Vancouver,Canada,2012,766397,Asia-Pacific
+Vancouver,Canada,2013,772555,North America
+Vancouver,Canada,2014,811943,Europe
+Vancouver,Canada,2015,793483,North America
+Vancouver,Canada,2016,833410,Europe
+Vancouver,Canada,2017,862707,North America
+Vancouver,Canada,2018,869516,Europe
+Vancouver,Canada,2019,909881,Asia-Pacific
+Vancouver,Canada,2020,920388,Asia-Pacific
+Vancouver,Canada,2021,890676,Europe
+Vancouver,Canada,2022,922581,Europe
+Vancouver,Canada,2023,917765,Europe
+Vancouver,Canada,2024,1014832,Asia-Pacific
+Vancouver,Canada,2025,1038144,Asia-Pacific
+Seoul,South Korea,2006,9400000,Asia-Pacific
+Seoul,South Korea,2007,9448957,Asia-Pacific
+Seoul,South Korea,2008,9505753,Europe
+Seoul,South Korea,2009,9501869,Europe
+Seoul,South Korea,2010,9489298,Europe
+Seoul,South Korea,2011,9544826,Europe
+Seoul,South Korea,2012,9771123,Asia-Pacific
+Seoul,South Korea,2013,9725418,Europe
+Seoul,South Korea,2014,9830184,North America
+Seoul,South Korea,2015,9937147,Asia-Pacific
+Seoul,South Korea,2016,10043120,North America
+Seoul,South Korea,2017,10108988,North America
+Seoul,South Korea,2018,9835839,North America
+Seoul,South Korea,2019,9592159,Asia-Pacific
+Seoul,South Korea,2020,10326307,North America
+Seoul,South Korea,2021,10291828,North America
+Seoul,South Korea,2022,9674904,North America
+Seoul,South Korea,2023,10368778,Europe
+Seoul,South Korea,2024,10422769,North America
+Seoul,South Korea,2025,9699677,Europe
+Busan,South Korea,2006,3300000,North America
+Busan,South Korea,2007,3264601,Asia-Pacific
+Busan,South Korea,2008,3257981,Asia-Pacific
+Busan,South Korea,2009,3210772,North America
+Busan,South Korea,2010,3162101,Asia-Pacific
+Busan,South Korea,2011,3126600,Europe
+Busan,South Korea,2012,3194793,Asia-Pacific
+Busan,South Korea,2013,3174334,Europe
+Busan,South Korea,2014,3071456,Europe
+Busan,South Korea,2015,3066194,Asia-Pacific
+Busan,South Korea,2016,2985056,North America
+Busan,South Korea,2017,3012264,North America
+Busan,South Korea,2018,3090703,North America
+Busan,South Korea,2019,2898823,North America
+Busan,South Korea,2020,2992915,Europe
+Busan,South Korea,2021,2818538,North America
+Busan,South Korea,2022,2792363,Asia-Pacific
+Busan,South Korea,2023,2983312,Europe
+Busan,South Korea,2024,2752449,Asia-Pacific
+Busan,South Korea,2025,2856686,Europe
+Tokyo,Japan,2006,14000000,Europe
+Tokyo,Japan,2007,14392036,Asia-Pacific
+Tokyo,Japan,2008,14768563,Europe
+Tokyo,Japan,2009,15265039,Asia-Pacific
+Tokyo,Japan,2010,15753151,Asia-Pacific
+Tokyo,Japan,2011,16111599,Asia-Pacific
+Tokyo,Japan,2012,16649849,North America
+Tokyo,Japan,2013,16778045,North America
+Tokyo,Japan,2014,17991304,Asia-Pacific
+Tokyo,Japan,2015,17894393,North America
+Tokyo,Japan,2016,18650954,North America
+Tokyo,Japan,2017,19105669,Asia-Pacific
+Tokyo,Japan,2018,20229123,Europe
+Tokyo,Japan,2019,20495221,North America
+Tokyo,Japan,2020,21015823,Asia-Pacific
+Tokyo,Japan,2021,21373760,Asia-Pacific
+Tokyo,Japan,2022,21327362,Asia-Pacific
+Tokyo,Japan,2023,22203273,Asia-Pacific
+Tokyo,Japan,2024,22834909,North America
+Tokyo,Japan,2025,24981627,Asia-Pacific
+Osaka,Japan,2006,2700000,Europe
+Osaka,Japan,2007,2765241,Asia-Pacific
+Osaka,Japan,2008,2835050,North America
+Osaka,Japan,2009,2900068,Asia-Pacific
+Osaka,Japan,2010,2956635,Asia-Pacific
+Osaka,Japan,2011,3059161,Europe
+Osaka,Japan,2012,3145812,Europe
+Osaka,Japan,2013,3236744,Europe
+Osaka,Japan,2014,3206820,North America
+Osaka,Japan,2015,3286264,North America
+Osaka,Japan,2016,3467033,North America
+Osaka,Japan,2017,3615939,Europe
+Osaka,Japan,2018,3644309,Asia-Pacific
+Osaka,Japan,2019,3816017,Asia-Pacific
+Osaka,Japan,2020,3759023,Europe
+Osaka,Japan,2021,4048688,Asia-Pacific
+Osaka,Japan,2022,3877916,North America
+Osaka,Japan,2023,4204585,Europe
+Osaka,Japan,2024,3964915,Europe
+Osaka,Japan,2025,4404962,Asia-Pacific
+Sydney,Australia,2006,5300000,Europe
+Sydney,Australia,2007,5412854,Europe
+Sydney,Australia,2008,5504738,Europe
+Sydney,Australia,2009,5627149,Europe
+Sydney,Australia,2010,5770905,Asia-Pacific
+Sydney,Australia,2011,5853431,Asia-Pacific
+Sydney,Australia,2012,6081221,North America
+Sydney,Australia,2013,6102767,Europe
+Sydney,Australia,2014,6362632,Asia-Pacific
+Sydney,Australia,2015,6292841,North America
+Sydney,Australia,2016,6541963,Europe
+Sydney,Australia,2017,6901710,Asia-Pacific
+Sydney,Australia,2018,6630718,Asia-Pacific
+Sydney,Australia,2019,7138333,Europe
+Sydney,Australia,2020,7407925,Europe
+Sydney,Australia,2021,6977584,North America
+Sydney,Australia,2022,7348035,Asia-Pacific
+Sydney,Australia,2023,7740720,Europe
+Sydney,Australia,2024,7686603,Asia-Pacific
+Sydney,Australia,2025,8057971,Europe
+Melbourne,Australia,2006,5100000,North America
+Melbourne,Australia,2007,5045766,Europe
+Melbourne,Australia,2008,5033208,Europe
+Melbourne,Australia,2009,4971487,Asia-Pacific
+Melbourne,Australia,2010,4930452,Asia-Pacific
+Melbourne,Australia,2011,4905332,North America
+Melbourne,Australia,2012,4865429,North America
+Melbourne,Australia,2013,4848400,Europe
+Melbourne,Australia,2014,4712848,North America
+Melbourne,Australia,2015,4818427,Europe
+Melbourne,Australia,2016,4579415,Asia-Pacific
+Melbourne,Australia,2017,4593823,North America
+Melbourne,Australia,2018,4691366,Asia-Pacific
+Melbourne,Australia,2019,4620849,Europe
+Melbourne,Australia,2020,4646718,North America
+Melbourne,Australia,2021,4501487,North America
+Melbourne,Australia,2022,4346244,Asia-Pacific
+Melbourne,Australia,2023,4208478,Europe
+Melbourne,Australia,2024,4466368,North America
+Melbourne,Australia,2025,4176027,North America
+Brisbane,Australia,2006,2600000,Europe
+Brisbane,Australia,2007,2621075,Asia-Pacific
+Brisbane,Australia,2008,2646457,Europe
+Brisbane,Australia,2009,2656930,North America
+Brisbane,Australia,2010,2676423,Europe
+Brisbane,Australia,2011,2667581,Europe
+Brisbane,Australia,2012,2751266,North America
+Brisbane,Australia,2013,2762591,Europe
+Brisbane,Australia,2014,2798883,Asia-Pacific
+Brisbane,Australia,2015,2755408,Asia-Pacific
+Brisbane,Australia,2016,2756897,North America
+Brisbane,Australia,2017,2906969,North America
+Brisbane,Australia,2018,2768507,North America
+Brisbane,Australia,2019,2904816,Asia-Pacific
+Brisbane,Australia,2020,2840326,North America
+Brisbane,Australia,2021,2793492,Europe
+Brisbane,Australia,2022,2931585,North America
+Brisbane,Australia,2023,3068156,North America
+Brisbane,Australia,2024,2862969,Asia-Pacific
+Brisbane,Australia,2025,2985859,Asia-Pacific
+Daegu,South Korea,2006,2400000,Europe
+Daegu,South Korea,2007,2457152,Asia-Pacific
+Daegu,South Korea,2008,2516855,Asia-Pacific
+Daegu,South Korea,2009,2604962,North America
+Daegu,South Korea,2010,2653863,Asia-Pacific
+Daegu,South Korea,2011,2694009,Asia-Pacific
+Daegu,South Korea,2012,2850168,Asia-Pacific
+Daegu,South Korea,2013,2925960,North America
+Daegu,South Korea,2014,2956300,Asia-Pacific
+Daegu,South Korea,2015,3058621,North America
+Daegu,South Korea,2016,3198988,Europe
+Daegu,South Korea,2017,3138862,North America
+Daegu,South Korea,2018,3209968,North America
+Daegu,South Korea,2019,3464567,North America
+Daegu,South Korea,2020,3473011,North America
+Daegu,South Korea,2021,3530222,Europe
+Daegu,South Korea,2022,3506218,North America
+Daegu,South Korea,2023,3870881,Asia-Pacific
+Daegu,South Korea,2024,3779028,Europe
+Daegu,South Korea,2025,4099992,North America
+Incheon,South Korea,2006,3000000,Europe
+Incheon,South Korea,2007,3082807,North America
+Incheon,South Korea,2008,3163695,Europe
+Incheon,South Korea,2009,3232416,North America
+Incheon,South Korea,2010,3306528,Europe
+Incheon,South Korea,2011,3354355,Asia-Pacific
+Incheon,South Korea,2012,3534638,North America
+Incheon,South Korea,2013,3516785,North America
+Incheon,South Korea,2014,3681476,North America
+Incheon,South Korea,2015,3747252,Asia-Pacific
+Incheon,South Korea,2016,3764994,Europe
+Incheon,South Korea,2017,3872362,Asia-Pacific
+Incheon,South Korea,2018,4047347,Europe
+Incheon,South Korea,2019,4178102,North America
+Incheon,South Korea,2020,4119293,Asia-Pacific
+Incheon,South Korea,2021,4271280,Asia-Pacific
+Incheon,South Korea,2022,4359418,North America
+Incheon,South Korea,2023,4705303,Asia-Pacific
+Incheon,South Korea,2024,4746105,Asia-Pacific
+Incheon,South Korea,2025,5033977,North America
