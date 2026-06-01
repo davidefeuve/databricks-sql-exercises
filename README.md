@@ -101,6 +101,26 @@ ORDER BY avg_salary DESC;
 
 ---
 
+## Screenshots
+
+### SQL Exercise 7: INNER JOIN
+
+![SQL Exercise 7](screenshots/databricks_SQL_notebook7.png)
+
+### SQL Exercise 8: WHERE with JOIN
+
+![SQL Exercise 8](screenshots/databricks_SQL_notebook8.png)
+
+### SQL Exercise 10: Using subqueries in SELECT
+
+![SQL Exercise 10](screenshots/databricks_SQL_notebook10.png)
+
+### SQL Exercise 11: CASE
+
+![SQL Exercise 11](screenshots/databricks_SQL_notebook11.png)
+
+---
+
 ## Skills Demonstrated
 
 * SQL Query Development
